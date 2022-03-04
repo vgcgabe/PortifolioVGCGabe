@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+.title{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    color: white;
+    background: rgb(47, 47, 175);
+}
+
+body,html{
+    background: aqua;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+footer{
+    background: rgb(47, 47, 175);
+}
